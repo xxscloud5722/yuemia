@@ -1,0 +1,14 @@
+pluginManagement {
+    repositories {
+//        maven {
+//            url "https://plugins.gradle.org/m2/"
+//        }
+//        mavenCentral()
+//        jcenter()
+//        maven { url: 'https://maven.aliyun.com/repository/gradle-plugin' }
+//        maven { url 'https://maven.aliyun.com/repository/central' }
+//        maven { url 'https://dl.bintray.com/kotlin/kotlin-eap' }
+    }
+}
+rootProject.name = 'yuemia'
+
