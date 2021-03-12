@@ -1,4 +1,4 @@
-package com.xxscloud.sdk.send_cloud
+package com.xxscloud.sdk.yuemia
 
 data class YMArticle(
         var title: String = "",

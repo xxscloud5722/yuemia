@@ -1,8 +1,8 @@
-package com.xxscloud.sdk.send_cloud
+package com.xxscloud.sdk.yuemia
 
 /**
  * NOTE: https://www.yuque.com/yuemia/wechat
- * Email SDK
+ * SDK
  */
 class Main {
 }
